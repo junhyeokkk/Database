@@ -1,5 +1,5 @@
 #날짜 : 2024/07/01
-#이름 : 김철학
+#이름 : 최준혁
 #내용 : 2장 SQL 기본
 
 #실습 2-1. 테이블 생성, 제거
@@ -12,7 +12,7 @@ CREATE TABLE `User1` (
     `age`	INT
 );
 
-DROP TABLE `User1`;
+#DROP TABLE `User1`;
 
 #실습 2-2. 데이터 입력
 INSERT INTO `User1` VALUES ('A101', '김유신', '010-1234-1111', 25);

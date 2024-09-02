@@ -26,7 +26,7 @@ create table `Sales` (
     `sale` int
 );
 
-drop table `sales`;
+#drop table `sales`;
 #실습 4-2
 insert into `Member` values('a101','박혁거세','010-1234-1001','부장',101,'2020-11-19 11:39:48');
 insert into `Member` values('a102','김유신','010-1234-1002','차장',101,'2020-11-19 11:39:48');
